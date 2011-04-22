@@ -1,0 +1,1 @@
+This is the blog jekyll blog for bitsushi, it is very much under development right now so you can just ignore it for the moment.
