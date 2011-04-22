@@ -5,3 +5,4 @@ pkg/
 *~
 _site/
 .DS_Store
+.sass_cache/
